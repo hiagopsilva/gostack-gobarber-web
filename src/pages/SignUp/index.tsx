@@ -25,7 +25,7 @@ const SignUp: React.FC = () => {
           <Button type="submit">Cadastrar</Button>
         </form>
 
-        <a href="login">
+        <a href="/">
           <FiArrowLeft />
           Voltar para logon
         </a>
