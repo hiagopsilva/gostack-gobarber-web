@@ -6,9 +6,7 @@ import Routes from './routes/index';
 
 const App: React.FC = () => (
   <>
-    <BrowserRouter>
-      <Routes />
-    </BrowserRouter>
+    <BrowserRouter>{/* <Routes /> */}</BrowserRouter>
     <GlobalStyles />
   </>
 );
